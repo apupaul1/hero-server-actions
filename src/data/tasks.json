@@ -1,0 +1,72 @@
+[
+    {
+      "id": "task-001",
+      "title": "Design Landing Page",
+      "description": "Create high-fidelity wireframes and visual designs for the new product landing page.",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2026-10-15",
+      "assignedTo": {
+        "userId": "user-99",
+        "name": "Sarah Jenkins"
+      },
+      "tags": ["design", "ui-ux", "marketing"],
+      "createdAt": "2026-10-01T09:00:00Z"
+    },
+    {
+      "id": "task-002",
+      "title": "Fix Authentication Bug",
+      "description": "Resolve the intermittent session timeout issue reported on mobile Safari browsers.",
+      "status": "todo",
+      "priority": "high",
+      "dueDate": "2026-10-10",
+      "assignedTo": {
+        "userId": "user-42",
+        "name": "Alex Rivera"
+      },
+      "tags": ["bug", "auth", "backend"],
+      "createdAt": "2026-10-05T14:30:00Z"
+    },
+    {
+      "id": "task-003",
+      "title": "Update Documentation",
+      "description": "Revise the API integration guidelines to reflect the recent v2 patch changes.",
+      "status": "completed",
+      "priority": "low",
+      "dueDate": "2026-10-07",
+      "assignedTo": {
+        "userId": "user-1022",
+        "name": "David House"
+      },
+      "tags": ["docs", "internal"],
+      "createdAt": "2026-09-28T11:15:00Z"
+    },
+    {
+      "id": "task-004",
+      "title": "Set Up CI/CD Pipeline",
+      "description": "Configure GitHub Actions workflows to automate staging deployments on pull request merge.",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2026-10-20",
+      "assignedTo": {
+        "userId": "user-105",
+        "name": "David Kim"
+      },
+      "tags": ["devops", "automation"],
+      "createdAt": "2026-10-06T08:00:00Z"
+    },
+    {
+      "id": "task-005",
+      "title": "Conduct User Interviews",
+      "description": "Gather feedback from 5 beta testers regarding the new dashboard layout.",
+      "status": "todo",
+      "priority": "medium",
+      "dueDate": "2026-10-18",
+      "assignedTo": {
+        "userId": "user-99",
+        "name": "Sarah Jenkins"
+      },
+      "tags": ["research", "product"],
+      "createdAt": "2026-10-07T16:45:00Z"
+    }
+  ]
